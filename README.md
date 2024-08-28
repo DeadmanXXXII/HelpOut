@@ -1,7 +1,8 @@
 # HelpOut
 Ddos resources exhaustion for LinkedIn help center
 
-Here's the updated report with the requested details:
+Here's the first report:
+[Double Barrel 0day](https://raw.githubusercontent.com/DeadmanXXXII/Double_Barrel)
 
 ---
 
@@ -115,3 +116,8 @@ Please review the findings and consider implementing the recommended mitigations
 **Blu Corbel AKA DeadmanXXXII**
 
 ---
+
+
+![status 200s](https://raw.githubusercontent.com/DeadmanXXXII/)
+
+![status 200s](https://raw.githubusercontent.com/DeadmanXXXII/)
