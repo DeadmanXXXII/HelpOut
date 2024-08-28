@@ -120,4 +120,5 @@ Please review the findings and consider implementing the recommended mitigations
 
 ![status 200s](https://raw.githubusercontent.com/DeadmanXXXII/HelpOut/main/Screenshot_20240828-215828.png)
 
-![status 200s](https://raw.githubusercontent.com/DeadmanXXXII/)
+![status 200s](https://raw.githubusercontent.com/DeadmanXXXII/HelpOut/main/Screenshot_20240828-220144.png)
+
