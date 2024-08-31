@@ -122,8 +122,8 @@ Please review the findings and consider implementing the recommended mitigations
 
 ![status 200s](https://raw.githubusercontent.com/DeadmanXXXII/HelpOut/main/Screenshot_20240828-220144.png)
 
-![status 200s](https://raw.githubusercontent.com/DeadmanXXXII/HelpOut/main/Screenshot_20240828-220144.png)
+![status 200s](https://raw.githubusercontent.com/DeadmanXXXII/HelpOut/main/Screenshot_20240831-093727.png)
 
-![status 200s](https://raw.githubusercontent.com/DeadmanXXXII/HelpOut/main/Screenshot_20240828-220144.png)
+![status 200s](https://raw.githubusercontent.com/DeadmanXXXII/HelpOut/main/Screenshot_20240831-093752.png)
 
-![status 200s](https://raw.githubusercontent.com/DeadmanXXXII/HelpOut/main/Screenshot_20240828-220144.png)
+![status 200s](https://raw.githubusercontent.com/DeadmanXXXII/HelpOut/main/Screenshot_20240831-093842.png)
