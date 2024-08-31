@@ -16,7 +16,7 @@ user_agents = [
 
 def generate_random_url(base):
     # Generate a random 7-character alphanumeric string
-    random_chars = ''.join(random.choices(string.ascii_lowercase + string.digits, k=7))
+    random_chars = ''.join(random.choices(string.digits, k=7))
     return base + random_chars
 
 def send_request(url):
